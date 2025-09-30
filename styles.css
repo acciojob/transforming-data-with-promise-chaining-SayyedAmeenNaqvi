@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+input, button {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#output {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #007bff;
+    min-height: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
